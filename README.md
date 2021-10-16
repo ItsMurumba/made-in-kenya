@@ -43,6 +43,7 @@
 
 ## <a name="L"> </a>L
 
+[Laravel Mpesa](https://github.com/gathuku/laravel_mpesa) : A simple mpesa package for laravel framework by [Gathuku](https://github.com/gathuku)
 
 ## <a name="M"> </a>M
 
