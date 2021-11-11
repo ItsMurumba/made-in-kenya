@@ -55,7 +55,7 @@
 
 
 ## <a name="P"> </a>P
-
+[Python Django Mpesa](https://github.com/lemaiyan/mpesa_api) : A simple mpesa package for laravel framework by [Lemayian](https://github.com/lemaiyan/mpesa_api)
 
 ## <a name="Q"> </a>Q
 
