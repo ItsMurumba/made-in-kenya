@@ -9,7 +9,7 @@
 </p>
 
 ## <a name="A"> </a>A
-
+[Android Mpesa API](https://github.com/jumaallan/android-mpesa-api) : Android MPESA SDK Library to provide smooth MPESA Experience in Android - Dubbed Daraja by [Juma Allan](https://github.com/jumaallan)
 
 ## <a name="B"> </a>B
 
@@ -24,7 +24,7 @@
 
 
 ## <a name="F"> </a>F
-
+[Fupisha](https://github.com/nairobi-gophers/fupisha) : A modern url shortening service. Fupisha is a swahili word for Shorten. by [Nairobi Gophers](https://github.com/nairobi-gophers)
 
 ## <a name="G"> </a>G
 
@@ -64,7 +64,7 @@
 
 
 ## <a name="S"> </a>S
-
+[Swot](https://github.com/abadojack/swot) : Identify email addresses or domains names that belong to colleges or universities by [Abado Jack](https://github.com/abadojack)
 
 ## <a name="T"> </a>T
 
@@ -76,6 +76,7 @@
 
 
 ## <a name="W"> </a>W
+[Whatalanggo](https://github.com/abadojack/whatlanggo) : Natural language detection library for Go by [Abado Jack](https://github.com/abadojack)
 
 
 ## <a name="X"> </a>X
