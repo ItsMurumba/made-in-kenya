@@ -24,7 +24,7 @@
 
 
 ## <a name="F"> </a>F
-[Fupisha](https://github.com/nairobi-gophers/fupisha) : A modern url shortening service. Fupisha is a swahili word for Shorten. by [Nairobi Gophers](https://github.com/nairobi-gophers)
+[Fupisha](https://github.com/nairobi-gophers/fupisha) : A modern url shortening service. Fupisha is a swahili word for Shorten by [Nairobi Gophers](https://github.com/nairobi-gophers)
 
 ## <a name="G"> </a>G
 
@@ -61,6 +61,7 @@
 
 
 ## <a name="R"> </a>R
+[Fupisha](https://github.com/gathuku/mpesa) : A Ruby interface/gem for Mpesa daraja APIs by [Gathuku](https://github.com/gathuku)
 
 
 ## <a name="S"> </a>S
