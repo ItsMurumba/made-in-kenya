@@ -46,12 +46,14 @@
 [Laravel Mpesa](https://github.com/gathuku/laravel_mpesa) : A simple mpesa package for laravel framework by [Gathuku](https://github.com/gathuku)
 
 ## <a name="M"> </a>M
+[Mpesa Typescript Wrapper](https://github.com/osenco/mpesats) : M-Pesa TypeScript Wrapper for integrating the Daraja API by [Osenco](https://github.com/osenco)
 
 
 ## <a name="N"> </a>N
 
 
 ## <a name="O"> </a>O
+[Osenco WooCommerce  Mpesa](https://github.com/osenco/osen-wc-mpesa) : WordPress Plugin that extends WooCommerce functionality to integrate MPESA for making payments, remittances, checking account balance, transaction status and reversals by [Osenco](https://github.com/osenco)
 
 
 ## <a name="P"> </a>P
