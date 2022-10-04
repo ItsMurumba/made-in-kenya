@@ -18,7 +18,8 @@
 
 
 ## <a name="D"> </a>D
-[Django Mpesa](https://github.com/Ekirapapaul/django-mpesa) : This repo is meant to simplify Safaricom's mpesa API integration in simple steps by [Ekirapa Paul](https://github.com/Ekirapapaul/django-mpesa)
+[Django Mpesa](https://github.com/Ekirapapaul/django-mpesa) : This repo is meant to simplify Safaricom's mpesa API integration in simple steps by [Ekirapa Paul](https://github.com/Ekirapapaul)
+[Django Mpesa](https://github.com/lemaiyan/mpesa_api) : Mpesa B2C, C2B, STKPush Django framework based on the new Api's https://developer.safaricom.co.ke by [Lemaiyan](https://github.com/lemaiyan)
 
 
 ## <a name="E"> </a>E
