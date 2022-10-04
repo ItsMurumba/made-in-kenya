@@ -18,6 +18,7 @@
 
 
 ## <a name="D"> </a>D
+[Django Mpesa](https://github.com/Ekirapapaul/django-mpesa) : This repo is meant to simplify Safaricom's mpesa API integration in simple steps by [Ekirapa Paul](https://github.com/Ekirapapaul/django-mpesa)
 
 
 ## <a name="E"> </a>E
